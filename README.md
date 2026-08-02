@@ -3,6 +3,21 @@
 A browser-based electronic signature tool built with React + TypeScript.  
 Sign documents using a canvas (draw) or typed signature, then export a SHA-256 hash for verification.
 
+[![Live Demo](https://img.shields.io/badge/demo-online-brightgreen.svg)](https://secure-e-signature-generator.vercel.app/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+<!-- جایگاه قرارگیری اسکرین‌شات یا گیف دمو -->
+<!-- ![Secure E-Signature Generator Screenshot](/path-to-your-image/screenshot.png) -->
+
+## 🔗 Live Demo
+
+You can try the live application here: [https://secure-e-signature-generator.vercel.app/](https://secure-e-signature-generator.vercel.app/)
+
+<p align="center">
+  <img src="./img_001.PNG" alt="Secure E-Signature Generator" width="600px" />
+</p>
+
+
 ## Features
 
 - ✍️ Draw or type your signature
